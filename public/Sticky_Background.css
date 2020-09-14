@@ -1,0 +1,17 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.scroller {
+}
+
+.scroller {
+  background-image: url(../../assets/img/overview.jpg);
+  height: auto;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
